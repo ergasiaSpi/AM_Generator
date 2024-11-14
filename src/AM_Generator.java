@@ -7,5 +7,6 @@ public class AM_Generator {
         System.out.println("AM 5 : 8150188");
         System.out.println("AM 6 : 8220042");
         System.out.println("AM 7 : 8190338");
+        System.out.println("ΑΜ 8 : 8190238");
     }
 }
