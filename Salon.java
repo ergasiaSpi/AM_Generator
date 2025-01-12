@@ -5,7 +5,6 @@ public class Salon {
   private String location;
   private String phoneNumber;
   private String email;
-  private double rating;
  
   public int getSalonId() {
     return salonId;
@@ -42,12 +41,6 @@ public class Salon {
   }
   public void setEmail(String email) {
     this.email = email;
-  }
-  public double getRating() {
-    return rating;
-  }
-  public void setRating(double rating) {
-    this.rating = rating;
   }
 }
     
